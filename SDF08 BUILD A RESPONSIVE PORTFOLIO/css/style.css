@@ -38,9 +38,10 @@
 /* General styles */
 
 /* endable this to add smooth scrolling */
-/* html {
+html {
     scroll-behavior: smooth;
-} */
+}
+
 html{
     scroll-behavior: smooth;
 }
@@ -147,7 +148,7 @@ header {
 }
 
 .logo {
-    max-width: 100px;
+    max-width: 11%;
 }
 
 .nav {
