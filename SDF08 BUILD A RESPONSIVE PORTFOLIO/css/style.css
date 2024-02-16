@@ -307,7 +307,7 @@ header {
 }
 
 .section__title--services {
-    color: var(--clr-accent);;
+    color: var(--clr-accent);
     position: relative;
 }
 
@@ -464,7 +464,6 @@ header {
     text-align: center;
     padding: 2.5em 0;
     font-size: var(--fs-h3);
-    
 }
 
 .footer a { 
